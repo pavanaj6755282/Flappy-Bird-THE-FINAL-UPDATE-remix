@@ -1,5 +1,9 @@
 # Flappy-Bird-THE-FINAL-UPDATE-remix
 This is my Project on Scratch that I released 3 months ago, and since I wanna make this better, I decided that I will publish this to GitHub. Please find me on Scratch! https://scratch.mit.edu/users/pavanaj6755282/
+https://scratch.mit.edu/users/Pavanaj76555588/
+https://scratch.mit.edu/users/pavanaj67555666/
+https://scratch.mit.edu/users/UnclePav/
+
 ![a8bcb42e-fac1-4aa9-a912-de7318b51e42](https://github.com/user-attachments/assets/cacd682d-699a-4bff-adfc-9c427283c0e3)
 ![Windows_Aqua](https://github.com/user-attachments/assets/9f5a60ce-dccc-4df7-96aa-49bb6c044543)
 ![Whorme WanrayOS](https://github.com/user-attachments/assets/7d22a7c0-b7ef-4a83-afdc-3fc9b5c30e15)
